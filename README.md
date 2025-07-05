@@ -1,1 +1,1 @@
-i cant deployment here becouse conniction string
+i cant deployment here because conniction string
