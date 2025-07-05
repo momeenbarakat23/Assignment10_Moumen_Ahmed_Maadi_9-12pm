@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AssessmentGPMAMVC.Models.Question>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<partial>
+    @Html.Partial("_Dashboard")
+</partial>
+
+<section class="Quest bg-light">
+    <div class="container-fluid">
+        <div class="w-25 d-flex ">
+            <a asp-action="Create"><input type="button" value="اضافه الاسأله" class="btn btn-success"></a>
+        </div>
+        <table class="table">
+            <thead class="mytable">
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.Text)</th>
+                    <th> @Html.DisplayNameFor(model => model.Section)</th>
+                    <th> @Html.DisplayNameFor(model => model.ChoiceA)</th>
+                    <th> @Html.DisplayNameFor(model => model.ChoiceC)</th>
+                    <th> @Html.DisplayNameFor(model => model.ChoiceD)</th>
+                    <th> @Html.DisplayNameFor(model => model.ChoiceB)</th>
+                    <th> @Html.DisplayNameFor(model => model.Explanation)</th>
+                    <th> @Html.DisplayNameFor(model => model.CorrectAnswer)</th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Text)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Section.Name)
+                        </td> <td>
+                            @Html.DisplayFor(modelItem => item.ChoiceA)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ChoiceC)
+                        </td> <td>
+                            @Html.DisplayFor(modelItem => item.ChoiceD)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ChoiceB)
+                        </td> <td>
+                            @Html.DisplayFor(modelItem => item.Explanation)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CorrectAnswer)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+
+</section>

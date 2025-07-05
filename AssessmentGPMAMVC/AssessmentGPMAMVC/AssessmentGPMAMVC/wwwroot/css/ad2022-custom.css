@@ -1,0 +1,90 @@
+
+.video-block img {cursor:pointer;}
+
+
+.h2 {padding-top: 20px;}
+
+
+.addsWg-searchfield-container-class .addsWg-searchfield input[type=search] {
+border: none !important;
+border-bottom: 1px solid #222222 !important;}
+input[type=email]:focus,input[type=password]:focus,input[type=search]:focus,input[type=tel]:focus,input[type=text]:focus,textarea:focus {
+box-shadow:none !important;}
+.addsWg-searchfield-container-class .addsWg-searchfield input[type=search].icon {
+background-image: url("https://www.assessmentday.co.uk/images/icon-search.svg") !important;}
+
+.testimonial-card .card-body .rating-wrap {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+
+.blockquote.testimonial-quote footer {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+
+blockquote.testimonial-quote footer .author-photo {
+	width:50px;
+	height:50px;
+}
+
+
+.slideshow .slides {border:1px solid #c6c6c6;}
+
+
+.hero-section .h1.display-1 {
+	margin-bottom: 4rem;
+}
+
+.heading-holder h2.h1 {margin-bottom: 0.3em;}
+#header {border-bottom: 1px solid #c2c8cc;}
+.accordion {border-top: 1px solid #c2c8cc;}
+.accordion>li {border-bottom: 1px solid #c2c8cc;}
+.stats-block p {font-weight: 500;}
+.free-trial-card {margin:60px 0px;}
+.hero-section {border-bottom: 1px solid #c2c8cc;}
+.card.bordered-lg .card-body img {margin-bottom: 1.3rem;}
+.bg-light {background-color:#f8f9fa!important}
+.align-center-flex {display: flex;justify-content: center;align-items: center;}
+.sub-heading {margin-bottom: 1.8rem;}
+.mark-blue {color: #007aff;background-color: #deeeff;border-radius: 12px;padding-left: .475rem;padding-right: .475rem;display: inline-block;}
+.mark-orange {color: #f90;background-color: #fdf3e3;border-radius: 12px;padding-left: .475rem;padding-right: .475rem;display: inline-block;}
+.mark-green {color: #338530;background-color: #e6ffe5;border-radius: 12px;padding-left: .475rem;padding-right: .475rem;display: inline-block;}
+.sub-heading.bg-primary, .sub-heading.bg-secondary, .sub-heading.bg-warning, .sub-heading.bg-danger, .sub-heading.bg-success, .sub-heading.bg-dark {border-radius: 10px;}
+@media (min-width: 768px) {#log-in {font-weight: 500;}}
+@media (min-width: 1024px) {.nav-accordion .opener {border-bottom: 1px solid #c2c8cc;} .search-holder {margin-right:28px;}}
+
+
+#cookie-banner {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 700px;
+  padding: 2em 3em 1em;
+  text-align: center;
+  z-index: 9999;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  color: #f1f1f1;
+  background: radial-gradient(ellipse at center, #111 0%, #0d0d0d 100%);
+  border-top: 2px solid #338530;
+}
+
+.cookie-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.cookie-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}

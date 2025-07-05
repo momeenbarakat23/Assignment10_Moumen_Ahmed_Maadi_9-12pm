@@ -1,0 +1,177 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AssessmentGPMAMVC
+build_property.RootNamespace = AssessmentGPMAMVC
+build_property.ProjectDir = D:\cmder\RouteAssiments\RouteAssignments\Assignment10_Moumen_Ahmed_Maadi_9-12pm\AssessmentGPMAMVC\AssessmentGPMAMVC\AssessmentGPMAMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\cmder\RouteAssiments\RouteAssignments\Assignment10_Moumen_Ahmed_Maadi_9-12pm\AssessmentGPMAMVC\AssessmentGPMAMVC\AssessmentGPMAMVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/advices/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWR2aWNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/advices/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWR2aWNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/advices/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWR2aWNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/advices/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWR2aWNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/advices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWR2aWNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Assessment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXNzbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/json/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcanNvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Questions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Questions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Questions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Questions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Questions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Roadmaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9hZG1hcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Roadmaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9hZG1hcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Roadmaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9hZG1hcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Roadmaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9hZG1hcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Roadmaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9hZG1hcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Sections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Sections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Sections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Sections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Sections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Shared/_Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/UserAnswers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFuc3dlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/UserAnswers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFuc3dlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/UserAnswers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFuc3dlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/UserAnswers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFuc3dlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/UserAnswers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFuc3dlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/cmder/RouteAssiments/RouteAssignments/Assignment10_Moumen_Ahmed_Maadi_9-12pm/AssessmentGPMAMVC/AssessmentGPMAMVC/AssessmentGPMAMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3fsdm4z6s0
